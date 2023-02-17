@@ -1,2 +1,0 @@
-# EDUARDO-MELO
-Programação js
